@@ -7,6 +7,8 @@
 ## Overview
 This project analyzes 100 weeks of workout data, transforming raw exercise logs into actionable insights and visualizations. Using Power BI and Python, it highlights trends in workout frequency, time commitment, and consistency, helping you understand progress and patterns over time.
 
+Data sourced from [Hevy workout logs](https://hevy.com/user/mukeshbaaratham) — 100+ weeks of consistent strength training.
+
 ## Project Structure
 - **Hevy_workouts_log_100_weeks.csv**: Cleaned dataset of 100 weeks of workouts
 - **Hevy_workouts_log_part1.csv**, **Hevy_workouts_log_part2.csv**: Split datasets for easier handling
